@@ -1,7 +1,3 @@
-Bo Chen (10190141)
-CISC 121 Assigment 1: Crown and Anchor
-June 10, 2017
-
 This is a Python version 3.6 of the Crown and Anchor Game.
 Each player puts a wager on one or more of the symbols on the wheel. 
 The wheel is then spun, and players recieve points if their wager was on the spin.
